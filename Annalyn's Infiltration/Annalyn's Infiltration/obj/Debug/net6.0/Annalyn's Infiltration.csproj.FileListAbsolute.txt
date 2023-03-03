@@ -1,5 +1,0 @@
-D:\Visual Studio\Projects\Csharp-Udemy\Annalyn's Infiltration\Annalyn's Infiltration\obj\Debug\net6.0\Annalyn's Infiltration.csproj.AssemblyReference.cache
-D:\Visual Studio\Projects\Csharp-Udemy\Annalyn's Infiltration\Annalyn's Infiltration\obj\Debug\net6.0\Annalyn's Infiltration.GeneratedMSBuildEditorConfig.editorconfig
-D:\Visual Studio\Projects\Csharp-Udemy\Annalyn's Infiltration\Annalyn's Infiltration\obj\Debug\net6.0\Annalyn's Infiltration.AssemblyInfoInputs.cache
-D:\Visual Studio\Projects\Csharp-Udemy\Annalyn's Infiltration\Annalyn's Infiltration\obj\Debug\net6.0\Annalyn's Infiltration.AssemblyInfo.cs
-D:\Visual Studio\Projects\Csharp-Udemy\Annalyn's Infiltration\Annalyn's Infiltration\obj\Debug\net6.0\Annalyn's Infiltration.csproj.CoreCompileInputs.cache
